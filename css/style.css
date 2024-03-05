@@ -82,3 +82,11 @@ footer {
 a {
     color:#FA9109;
 }
+
+.title {
+    text-decoration: none;
+}
+
+.title :hover {
+    cursor: pointer;
+}
