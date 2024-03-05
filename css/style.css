@@ -77,4 +77,8 @@ select {
 footer {
     text-align: center;
     color: rgba(0, 0, 0, 0.8);
+    font-weight: 18px;
+}
+a {
+    color:#FA9109;
 }
