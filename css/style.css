@@ -9,6 +9,11 @@ img {
     margin: 0 auto;
 }
 
+select:focus-visible {
+    outline: #FAB63B auto 1px;
+
+}
+
 .open {
     background-color: black;
     color: #FA9109;
@@ -38,7 +43,7 @@ select {
     margin: 60px auto;
     background: white;
     padding: 30px;
-    box-shadow: #FA9109 0px 17px 39px 0px;
+    box-shadow: #FA9109 0px 39px 39px 0px;
     border-radius: 10px;
 }
   
