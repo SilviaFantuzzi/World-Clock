@@ -9,7 +9,10 @@ img {
     margin: 0 auto;
 }
 
-
+.open {
+    background-color: black;
+    color: #FA9109;
+}
 
 h1 {
     text-align: center;
